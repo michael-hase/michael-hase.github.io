@@ -403,6 +403,7 @@ header nav .nav-container #logo img {
 
 header nav .nav-container .nav-links {
   z-index: 500;
+  margin-top: 1rem;
 }
 
 header nav .nav-container .nav-links li {
