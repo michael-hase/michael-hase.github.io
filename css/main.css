@@ -384,6 +384,7 @@ header #particles-js canvas {
 
 header nav {
   width: 100%;
+  top: -100px;
 }
 
 header nav .nav-container {
@@ -402,7 +403,7 @@ header nav .nav-container #logo img {
 }
 
 header nav .nav-container .nav-links {
-  z-index: 1000;
+  z-index: 500;
 }
 
 header nav .nav-container .nav-links li {
