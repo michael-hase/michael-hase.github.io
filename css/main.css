@@ -375,7 +375,7 @@ header #particles-js {
 
 header #particles-js canvas {
   position: absolute;
-  top: -100;
+  top: 0;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -393,7 +393,7 @@ header nav .nav-container {
 }
 
 header nav .nav-container #logo {
-  margin: 0;
+  margin: auto 0;
   z-index: 10;
 }
 
@@ -402,8 +402,7 @@ header nav .nav-container #logo img {
 }
 
 header nav .nav-container .nav-links {
-  z-index: 500;
-  margin-top: 1rem;
+  z-index: 1000;
 }
 
 header nav .nav-container .nav-links li {
@@ -474,7 +473,7 @@ header nav .mobile-menu .container .mobile-menu-links ul .link:hover::after {
 header .hero {
   z-index: 5;
   position: absolute;
-  top: 60%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
