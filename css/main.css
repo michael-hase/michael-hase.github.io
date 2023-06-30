@@ -448,6 +448,7 @@ header nav .mobile-menu .container .mobile-menu-links ul {
   justify-content: center;
   align-items: center;
   list-style-type: none;
+  padding: 0;
 }
 
 header nav .mobile-menu .container .mobile-menu-links ul li {
