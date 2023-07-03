@@ -452,7 +452,7 @@ header nav .mobile-menu .container .mobile-menu-links ul {
 }
 
 header nav .mobile-menu .container .mobile-menu-links ul li {
-  margin: -4rem 1rem 0;
+  margin: -1rem 1rem 0;
 }
 
 header nav .mobile-menu .container .mobile-menu-links ul .link::after {
@@ -474,7 +474,7 @@ header nav .mobile-menu .container .mobile-menu-links ul .link:hover::after {
 header .hero {
   z-index: 5;
   position: absolute;
-  top: 50%;
+  top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
