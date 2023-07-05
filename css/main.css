@@ -624,13 +624,13 @@ header .seperator-skew svg .fill-white {
 
 @media screen and (max-width: 999px) {
   header nav .container {
-    padding-bottom: 0.75rem;
+    padding-bottom: 0rem;
   }
   header nav .nav-container {
     justify-content: center;
   }
   header .hero {
-    top: 55%;
+    top: 70%;
   }
   header .socials {
     display: none;
