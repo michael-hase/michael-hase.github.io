@@ -398,6 +398,8 @@ header nav .nav-container #logo {
 }
 
 header nav .nav-container #logo img {
+  position: relative;
+  top: -80px;
   width: 250px;
 }
 
@@ -472,9 +474,8 @@ header nav .mobile-menu .container .mobile-menu-links ul .link:hover::after {
 
 header .hero {
   z-index: 5;
-  position: absolute;
-  top: 50%;
-  left: 50%;
+  position: relative;
+  top: 0px;
   transform: translate(-50%, -50%);
 }
 
