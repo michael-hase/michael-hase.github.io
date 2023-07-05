@@ -476,7 +476,6 @@ header .hero {
   z-index: 5;
   position: relative;
   top: 0px;
-  transform: translate(-50%, -50%);
 }
 
 header .hero h1,
