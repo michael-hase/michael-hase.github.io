@@ -475,7 +475,7 @@ header nav .mobile-menu .container .mobile-menu-links ul .link:hover::after {
 header .hero {
   z-index: 5;
   position: relative;
-  top: 0px;
+  top: -10px;
 }
 
 header .hero h1,
