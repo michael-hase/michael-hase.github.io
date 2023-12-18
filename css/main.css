@@ -398,8 +398,6 @@ header nav .nav-container #logo {
 }
 
 header nav .nav-container #logo img {
-  position: relative;
-  top: -80px;
   width: 250px;
 }
 
@@ -626,13 +624,13 @@ header .seperator-skew svg .fill-white {
 
 @media screen and (max-width: 999px) {
   header nav .container {
-    padding-bottom: 0rem;
+    padding-bottom: 0.75rem;
   }
   header nav .nav-container {
     justify-content: center;
   }
   header .hero {
-    top: 70%;
+    top: 55%;
   }
   header .socials {
     display: none;
@@ -730,16 +728,6 @@ header .seperator-skew svg .fill-white {
   margin-top: 1rem;
 }
 
-.projects .project-row #webscraper {
-  background-image: url("../img/top10songs.JPG");
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-  transition: background-image 0.2s ease-in-out;
-}
-
-.projects .project-row #webscraper:hover {
-  background-image: url("../img/top10songs.gif");
-}
 
 @media screen and (max-width: 860px) {
   .projects .project-row {
